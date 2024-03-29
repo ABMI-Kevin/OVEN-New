@@ -11,4 +11,5 @@ If you wish to run the model on your local machine you can clone the repository 
 ### Running the model on Google Colab 
 If you want to run the model using Google Colab rather than a python environment on your own computer then you can open the notebook directly in Colab from the Github repository and then clone the repository to your Google Drive via the steps in the notebook.
 
-This recognizer was developed using the Tensorflow package in python by Chris Scott in collaboration with Elly Knight, and was modified in 2024 by Kevin Kelly.
+
+This recognizer was developed using the Tensorflow package in python by Chris Scott in collaboration with Elly Knight, and was updated by Kevin Kelly.
