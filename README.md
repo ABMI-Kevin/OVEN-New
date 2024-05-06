@@ -1,4 +1,4 @@
-# Ovenbird Call Recognizer Usage Readme
+# Ovenbird Song Recognizer Usage Readme
 
 This recognizer is designed to detect Ovenbird (*Seiurus aurocapilla*) songs in audio recordings.  The recognizer output is a sigmoidal score for Ovenbird presence and the relative decibel level for each ~0.275 second detection window of a recording.
 
